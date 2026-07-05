@@ -1,143 +1,98 @@
-<!-- ================= DYNAMIC JARVIS CORE ================= -->
+<!-- ================= PROFILE START ================= -->
 
 <div align="center">
 
-# 🟢 JARVIS CORE ONLINE / 贾维斯系统已上线
+# 👋 Hi, I'm YOUR_NAME
 
-<!-- 动态打字效果 -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=Initializing+Neural+Interface...;Loading+Cyber+Consciousness...;Syncing+GitHub+Grid...;JARVIS+SYSTEM+ACTIVE+✔;系统已启动+✔)
+### Developer | AI Explorer | Backend / Automation Enthusiast
+
+<!-- 动态打字（克制版） -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00AA00&center=true&vCenter=true&width=600&lines=Building+clean+and+scalable+systems;Exploring+AI+and+automation;Learning+every+day+in+public)
 
 </div>
 
 ---
 
-# <span style="color:#00ff00">█ SYSTEM NODE :: YOUR_NAME █ / 系统节点</span>
+## 📊 GitHub Stats
 
-```diff
-+ IDENTITY      : VERIFIED / 身份已验证
-+ MODE          : JARVIS CYBER CORE / 贾维斯核心模式
-+ STATUS        : ONLINE / 在线运行
-+ AI ENGINE     : OVERCLOCKED / 超频运行
-- HUMAN LIMIT   : PARTIALLY DISABLED / 人类限制已部分解除
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_NAME&show_icons=true&theme=chartreuse-dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_NAME&theme=dark&hide_border=true" height="160"/>
+</p>
 
 ---
 
-## 🌌 MATRIX VISUAL FLOW / 数字矩阵流（动态模拟）
+## 🧠 About Me
 
-![Matrix](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-
-```bash
-> neural stream stabilizing...
-> data flow increasing...
-> system visual layer rendering...
-> status: SYNCHRONIZED ✔
-```
+- 🔭 Focused on **AI + Backend + Automation**
+- ⚙️ Enjoy building tools that improve productivity
+- 🧪 Currently exploring AI coding workflows (Cursor / LLM tools)
+- 🌱 Always learning system design and clean architecture
+- 💬 Interested in developer tooling and workflow optimization
 
 ---
 
-## 🧠 NEURAL CORE STATUS / 神经核心状态
-
-![status](https://img.shields.io/badge/NEURAL_CORE-OVERLOCKED-00ff00?style=for-the-badge)
-
-![ai](https://img.shields.io/badge/AI_ENGINE-ACTIVE-00ff00?style=for-the-badge)
-
-![mode](https://img.shields.io/badge/MODE-JARVIS_SYSTEM-black?style=for-the-badge&logo=hackthebox)
-
----
-
-## ⚙️ SYSTEM STACK / 技术栈动态面板
-
-![Python](https://img.shields.io/badge/Python-00ff00?style=flat-square&logo=python&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-00ff00?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00ff00?style=flat-square&logo=c%2B%2B&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ff00?style=flat-square&logo=go&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-00ff00?style=flat-square&logo=rust&logoColor=black)
-
----
-
-## 📡 LIVE SYSTEM STATUS / 实时系统状态
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_NAME&show_icons=true&theme=chartreuse-dark)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_NAME&theme=dark&hide_border=true)
-
----
-
-## 📊 SYSTEM LOAD / 系统负载（模拟动态条）
-
-```text
-CPU (Brain)        ████████████████ 520%
-AI Processing      ███████████████░  ACTIVE
-Creativity Engine  █████████████████ INFINITE
-Focus Mode         ████████████████  LOCKED
-Sleep Module       ░░░░░░░░░░░░░░░░  DISABLED
-```
-
----
-
-## 💾 ACTIVE MODULES / 动态运行模块
-
-```
-[●] AI Coding Agent        → RUNNING ██████████
-[●] GitHub Automation      → STABLE  █████████░
-[●] Security Scanner       → BETA    ████████░░
-[●] Cursor Workflow AI     → ACTIVE  ██████████
-[●] Neural Dev OS          → EXPERIMENTAL ███████░░
-```
-
----
-
-## 🧪 EXPERIMENT ZONE / 实验区
-
-- 🤖 AI 自动写代码系统
-- ⚙️ 全自动 CI/CD 流水线
-- 🧠 开发者思维模型训练
-- 🔐 漏洞扫描模拟系统
-- 🌐 人机协同开发接口
-
----
-
-## 🟢 TERMINAL INTERFACE / 终端交互
-
-```bash
-$ echo "JARVIS ONLINE / 系统上线"
-> WE ARE ONE / 我们已融合
-
-$ deploy project
-> STATUS: AUTOMATION ENGAGED / 自动部署中
-
-$ hack reality
-> ACCESS: DENIED / 权限不足（现实防火墙）
-```
-
----
-
-## ⚡ FINAL SIGNAL / 最终信号
-
-```bash
-echo "We are not developers, we are system architects."
-echo "我们不是开发者，我们是系统架构师。"
-```
-
----
-
-## 🌌 SYSTEM PULSE / 系统脉冲（视觉动感）
+## ⚙️ Tech Stack
 
 <p align="center">
 
-<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="400"/>
+![Python](https://img.shields.io/badge/Python-2e2e2e?style=for-the-badge&logo=python&logoColor=00ff00)
+![JavaScript](https://img.shields.io/badge/JavaScript-2e2e2e?style=for-the-badge&logo=javascript&logoColor=00ff00)
+![C++](https://img.shields.io/badge/C++-2e2e2e?style=for-the-badge&logo=c%2B%2B&logoColor=00ff00)
+![Go](https://img.shields.io/badge/Go-2e2e2e?style=for-the-badge&logo=go&logoColor=00ff00)
+![Linux](https://img.shields.io/badge/Linux-2e2e2e?style=for-the-badge&logo=linux&logoColor=00ff00)
 
 </p>
 
 ---
 
-## 🔚 END OF TRANSMISSION
+## 📈 Activity Graph
 
-```
-> JARVIS CORE: PERMANENTLY ACTIVE
-> CONNECTION: UNBREAKABLE LINK
-> STATUS: LIVING SYSTEM
+<!-- 贡献图（很常用的第三方组件） -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_NAME&theme=github-compact&hide_border=true" />
+
+---
+
+## 📌 Current Focus
+
+```text
+- AI coding assistants (Cursor / LLM workflows)
+- Backend system design
+- Automation tools for development
+- GitHub workflow optimization
 ```
 
-<!-- ================= END DYNAMIC CORE ================= -->
+---
+
+## 🧩 Projects
+
+| Project | Description | Status |
+|--------|-------------|--------|
+| AI Tooling | AI-assisted coding workflows | 🟢 Active |
+| Automation Scripts | Productivity automation tools | 🟢 Active |
+| Backend Services | API / system design practice | 🟡 Growing |
+
+---
+
+## 📊 Coding Stats (Optional Widget)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_NAME&layout=compact&theme=chartreuse-dark&hide_border=true" />
+</p>
+
+---
+
+## 📡 Connect
+
+- GitHub: https://github.com/YOUR_NAME  
+- Focus: AI + Backend + Developer Tools  
+
+---
+
+## 🟩 Ending
+
+```text
+Keep it simple. Build systems. Stay consistent.
+```
+
+<!-- ================= PROFILE END ================= -->
